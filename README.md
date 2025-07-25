@@ -1,1 +1,2 @@
-# Django-Tenants
+
+Django-Tenants is a Django application that facilitates the creation of multi-tenant applications using PostgreSQL schemas. This allows you to have multiple tenants (clients) in a single database while keeping their data separate. Each tenant gets its own schema, which helps in isolating data and improving security.
